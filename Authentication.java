@@ -1,7 +1,6 @@
 import java.util.Scanner;
-public class Authentication{
-public static void main(String [] args){
-Scanner input = new Scanner (System.in);
+public class Authentication{ public static void main(String [] args){ 
+Scanner input = new Scanner (System.in); 
 String username= "ddy285";
 String password= "123";
 System.out.println("Username: ");
